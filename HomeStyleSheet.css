@@ -1,0 +1,44 @@
+﻿body {
+    background-color: #0e171f /*#21262e*/;
+    font-family: Arial;
+}
+
+h1{
+    margin-left: 5%;
+    font-size: 300%;
+    color: darkorange;
+    font-family: Courier;
+}
+
+p {    
+    margin-left: 5%;
+    color: lightgrey;
+}
+
+
+.topnav {
+    background-color: darkorange;
+    overflow: hidden;
+}
+
+.topnav a {
+    margin-left: 5%;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: darkorange;
+}
+
+.topnav a.active {
+    background-color: #21262e;
+    border:solid;
+    border-color: darkorange;
+    color: white;
+}
