@@ -1,4 +1,8 @@
-﻿body {
+﻿html{
+    height: 100%;
+}
+
+body {
     min-height: 100%;
     background-color: #191b1f /*#0e171f #21262e*/;
     font-family: Arial;
