@@ -3,35 +3,21 @@
     font-family: Arial;
 }
 
-img {
-    display: inline;
-    float: left;
-    margin-left: 5%;
-    margin-top: 2%;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
-}
-
-h1{
-    margin-top:5%;
+h1 {
+    margin-top: 5%;
     margin-left: 5%;
     font-size: 300%;
     color: darkorange;
     font-family: Courier;
 }
 
-p {
-    margin-top: 2%;
-    padding-top: 2%;
-    display: inline-block;
+p {    
     font-size: 120%;
     width: 30%;
     line-height: 180%;
     margin-left: 5%;
     color: lightgrey;
-    border-top: solid;
-    border-color: darkorange;
 }
-
 
 .topnav {
     background-color: darkorange;
